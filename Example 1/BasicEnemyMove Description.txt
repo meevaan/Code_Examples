@@ -1,0 +1,7 @@
+The basic enemy move script was created as part of my Honours Project at University.
+
+Within the project, enemies spawned randomly, at a distance, on either side of the player. What this code does is launch a ray, originating from an enemy character, both in front of and behind an enemy, so that if the back facing ray collides with the player's character it turns the enemy so that the front facing ray is then hitting them, and if the front facing ray is hitting the player, it moves the enemy towards the player.
+
+The script also handles things such as playing animations when the enemies are walking, idle, and when close enough to the player, attacking.
+
+This kind of movement logic was chosen as complex pathfinding wasn't needed, as the game took place on a flat stage with no obstacles that could interrupt the enemies path.

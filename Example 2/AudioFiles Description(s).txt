@@ -1,0 +1,11 @@
+The 2 code files included were created as part of a VR Game made at University.
+
+The files serve similar purposes, both handling the playing of audio files for immersion purposes.
+
+The file "WalkingSounds" handles the general footstep sounds of the player walking around, playing a different sound depending on what surface the player is walking on, as well as playing no sound if the players position isn't changing.
+
+The file "InBushes" very simply handles playing additional audio when the player is colliding with a bush object.
+
+Both files operate relatively simplistically however achieve a great result for immersing the player.
+
+I currently do not own a VR headset, so the recording included is from an FPS rig, recorded on my laptop.

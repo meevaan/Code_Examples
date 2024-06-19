@@ -1,0 +1,4 @@
+PlayerInventory is a script I created as part of a Home Project around a year ago.
+
+The script's purpose is to handle the picking up of items in the world, and adding them to the players inventory when the pick up key is pressed or via another "catching fish" mechanic. The inventory itself revolves around a custom class called "Item" which holds information like an item's name, sprite, quantity, and more. The inventory is also linked to a UI system that displays all the items held.
+

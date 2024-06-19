@@ -1,0 +1,3 @@
+The TalkWithCharacter script was created recently as part of a home project I am working on.
+
+When the player and a character with this script equipped have their "GoToConvo" function called by an external script, specific dialogue will begin to play depending on what integer the function is given. The script writes all text in letter by letter, before then allowing for the next character to begin talking. The dialogue is also linked to some basic UI, displaying the character that you're talking to, as well as visually indicating whose talking by changing the sprites colour and opacity, as well as once the conversation is finished all dialogue UI is closed.
